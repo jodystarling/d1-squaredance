@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "d1-squaredance",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "93594841-3a1d-4880-b0e8-87dde306bbe9",
+      "database_name": "d1-template-squaredance"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
